@@ -6,8 +6,8 @@ NEWS_SOURCES = [
 
 REDDIT_SUBREDDITS = ["stocks", "WallStreetBets"]
 
-FRED_API_KEY = "26f11bc01fe6b9e1a5875b1e0f68265a"  
-NEWS_API_KEY = "1016e2533f4b4153b16a86be4e46a2a5"
+FRED_API_KEY = "your-api-key"  
+NEWS_API_KEY = "your-api-key"
 
 AWS_CONFIG = {
     "S3_BUCKET": "your-s3-bucket",  # S3 bucket name
